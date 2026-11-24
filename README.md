@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Experience a story-driven RPG where your choices mean all the difference in the world.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | OSX 10.10 |
+| **Processor** | Min: Intel Core 2 Quad Q9505 @ 2.80 GHz / AMD Athlon II X4 8… / Rec: Intel Core i3-2100 @ 3.10 GHz / AMD Phenom II X4 955 @ … | Intel Core i5 @ 2.9 GHz |
+| **Memory** | Min: 6 GB RAM / Rec: 8 GB RAM | 6 GB RAM |
+| **Graphics** | Min: ATI Radeon HD 5770 or NVIDIA GeForce GTS450 with 1GB VR… / Rec: Radeon HD 6850 or NVIDIA GeForce GTX 560 with 1GB VRAM | Radeon HD 6950m with 1GB VRAM |
+| **Storage** | 15 GB available space | 15 GB available space |
+| **OS *** | Min: Windows 7 64-bit or newer / Rec: Windows 7 64-bit or newer | Windows 7 64-bit or newer |
+| **Sound Card** | DirectX Compatible Sound Card | DirectX Compatible Sound Card |
 
 ---
 
